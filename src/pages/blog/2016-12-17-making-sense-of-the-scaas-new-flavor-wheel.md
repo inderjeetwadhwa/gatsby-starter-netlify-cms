@@ -8,6 +8,7 @@ description: >-
 tags:
   - flavor
   - tasting
+  - TestTag
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
